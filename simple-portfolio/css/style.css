@@ -1,0 +1,29 @@
+nav{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-items{
+    font-size: 16;
+    font-family: sans-serif;
+}
+
+.ctas{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-btns{
+    background-color: transparent;
+    padding: 8px 10px;
+    border-width: 1px;
+    border-color: #C4C4C4;
+    
+}
